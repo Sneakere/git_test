@@ -1,0 +1,1 @@
+This is sneaker's first git project
